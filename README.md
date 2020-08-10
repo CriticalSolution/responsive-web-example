@@ -46,7 +46,7 @@ For small screen :
 
 If run "npm audit" command, can be seen "1 low severity vulnerability" warning. 
 
-!!! Take attention this warning and search for solution to resolve it.  !!!
+** !!! Take attention this warning and search for solution to resolve it.  !!! **
  
 # Questions?
 
