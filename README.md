@@ -2,7 +2,7 @@
 
 This is an responsive web site example.  
 
-# Outputs for big and small size
+# Dependencies
 
 For this projects needs to be installed some packages which are mentioned at below.
 
@@ -42,7 +42,12 @@ For small screen :
 
 ![alt text](./src/outputs/ContactSmall.jpg)
 
+# Check for security
 
+If run "npm audit" command, can be seen "1 low severity vulnerability" warning. 
+
+!!! Take attention this warning and search for solution to resolve it.  !!!
+ 
 # Questions?
 
 Feel free for any suggestions, bugs, recommendations or improvements.
