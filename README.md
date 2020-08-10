@@ -1,7 +1,24 @@
 # responsive-web-example
+
 This is an responsive web site example.  
 
-When you add code in a page, you can see images as if in the below.
+# Outputs for big and small size
+
+For this projects needs to be installed some packages which are mentioned at below.
+
+npm install @material-ui/core
+
+npm install @material-ui/icons
+
+npm install --save react-router-dom
+
+npm install react-bootstrap-icons --save
+
+npm install react-responsive --save
+
+# Outputs for big and small size
+
+For big screen :
 
 ![alt text](./src/outputs/HomePage.jpg)
 
@@ -13,7 +30,7 @@ When you add code in a page, you can see images as if in the below.
 
 ![alt text](./src/outputs/ContactPage.jpg)
 
-
+For small screen :
 
 ![alt text](./src/outputs/HomeSmall.jpg)
 
