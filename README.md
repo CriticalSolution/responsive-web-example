@@ -3,13 +3,19 @@ This is an responsive web site example.
 
 When you add code in a page, you can see images as if in the below.
 
+![alt text](./src/outputs/HomePage.jpg)
+
+![alt text](./src/outputs/ListPage.jpg)
+
+![alt text](./src/outputs/ServicePage.jpg)
+
 ![alt text](./src/outputs/AboutPage.jpg)
 
-![alt text](./2.jpg)
+![alt text](./src/outputs/ContactPage.jpg)
 
-![alt text](./3.jpg)
 
-![alt text](./4.jpg)
+
+
 
 # Questions?
 
